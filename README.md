@@ -1,7 +1,7 @@
 # Ensiuc.github.io
 
-Research Scientist | Epigenomics · Genomics · Single-Cell and Bulk sequencing
-Postdoctoral Fellow, UC Davis
+Postdoctoral Fellow, UC Davis | Epigenomics · Genomics · Single-Cell and Bulk sequencing
+
 I study how the environment shapes the genome and epigenome across generations, cell types, and biological contexts. My work spans preconception stress, reproductive system, autism-associated methylation, conservation genetics, and population genomics, combining wet-lab and dry-lab expertise to go from sample to insight.
 
 
